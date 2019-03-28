@@ -1,2 +1,4 @@
 # EUIMusicalGadget
 EmergentUserInterfacesMusicalGadget
+
+I'm contributing
