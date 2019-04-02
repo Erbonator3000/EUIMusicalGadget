@@ -23,3 +23,4 @@ const uint8_t blues[] = {0,3,5,6,7,10,12};
 
 const uint8_t chord_major[] = {0,4,7};
 const uint8_t chord_minor[] = {0,3,7};
+const uint8_t chord_pwr[] = {0,7};
